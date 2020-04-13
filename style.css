@@ -1,0 +1,21 @@
+body{
+    background:linear-gradient(to right,red,yellow);
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    margin:50px;
+}
+h1{
+    text-align: center;
+    color:#4C3535;
+    font-size:80px;
+    font-family: 'Comic Neue', cursive;
+    letter-spacing:0.4em;
+}
+.mid{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-family: monospace;
+    letter-spacing: 0.01em;
+}
